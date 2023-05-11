@@ -11,3 +11,6 @@ Imagine that you are a data analyst working in the HR department of a company ca
 4. Number of companies: Employees who worked in only one company before working at 149 Solutions contributed the highest to the attrition rate.
 5. Gender: A large number of male employees left the company as compared with female employees.
 6. Job role and number of companies: Laboratory technicians who worked in only one company before 149 solutions contributed the most to the attrition rate.
+
+#### Note:
+The dataset has been provided by IIIT-B as part of its advanced certification in data science program. 
